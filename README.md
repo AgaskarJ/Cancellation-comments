@@ -12,6 +12,8 @@ This deliverable is an executable python script running a supervised machine lea
 
 In the labeling process, we got to the consolidated categories by sorting and labeling cancellation comments through 3 levels of classifications starting from lowest to a broader encapsulating category based on business decisions taken on each one. We also aimed to keep the number of categories to a minimum for better machine learning. Therefore, coming up with 6 pre-defined categories: Change in Coverage Needs, Major Life Event, Needed Different Eff Date or Limit, Product Fit, Test, or Unknown.
 
+ggg
+
 # 1. Data Cleaning
 ![image 1](images/1.png)
 
